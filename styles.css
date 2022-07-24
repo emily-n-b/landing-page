@@ -103,6 +103,7 @@ text-align: center;
 
 .card-container {
     display: flex;
+    justify-content: center;
     gap: 24px;
 }
 
@@ -123,6 +124,7 @@ text-align: center;
 
 .card-subtext {
     color: #1F2937;
+    max-width: 150px;
 }
 
 .quote-container {
